@@ -18,6 +18,22 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 </details>
 
 
+
+
+
+<details><summary>Relevant Coursework</summary>
+<p>
+
+  - ST 430: Linear Models 
+  - ST 432: Survey Sampling 
+  - ST 546: Probabality and Stochastic Processes (w/ Measure Theory)
+  - 
+
+</p>
+</details>
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
