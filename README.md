@@ -2,7 +2,21 @@
 
 Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State. I plan on using this page to show how I've applied my statistical background to a vartiety of fun projects. 
 
-### Markdown
+### My Background
+
+
+<details><summary>My Resume</summary>
+<p>
+
+
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
