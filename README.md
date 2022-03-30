@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Nicholas Gawron
 
-You can use the [editor on GitHub](https://github.com/ncgawron/ncgawron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State. I plan on using this page to show how I've applied my statistical background to a vartiety of fun projects. 
 
 ### Markdown
 
