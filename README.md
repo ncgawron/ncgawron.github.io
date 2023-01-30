@@ -5,14 +5,7 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 ### My Background
 
 
-<details><summary>My Resume</summary>
-<p>
-
-
-
-</p>
-</details>
-
+My [Resume]()
 
 
 
