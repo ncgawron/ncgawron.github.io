@@ -10,10 +10,6 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 
 
 
-    ```ruby
-      puts "Hello World"
-    ```
-
 </p>
 </details>
 
@@ -24,10 +20,11 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 <details><summary>Relevant Coursework</summary>
 <p>
 
-  - ST 430: Linear Models 
-  - ST 432: Survey Sampling 
+  - ST 554: Big Data Analysis in Python with PySpark 
+  - ST 563: Statistical Leaning
   - ST 546: Probabality and Stochastic Processes (w/ Measure Theory)
-  - 
+  - ST 537: Multivariate and Longitudinal Data Analysis 
+  - ST 503: Fundamentals of Linear Models and Regression
 
 </p>
 </details>
