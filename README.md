@@ -5,6 +5,7 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 ### My Background
 
 
+<<<<<<< HEAD
 <details><summary>My Resume</summary>
 <p>
 
@@ -14,6 +15,9 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 </p>
 </details>
 
+=======
+My [Resume]()
+>>>>>>> 3183f806b72d9fd019ca787c2a00e81a80bf7ee5
 
 
 
@@ -21,10 +25,11 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 <details><summary>Relevant Coursework</summary>
 <p>
 
-  - ST 430: Linear Models 
-  - ST 432: Survey Sampling 
+  - ST 554: Big Data Analysis in Python with PySpark 
+  - ST 563: Statistical Leaning
   - ST 546: Probabality and Stochastic Processes (w/ Measure Theory)
-  - 
+  - ST 537: Multivariate and Longitudinal Data Analysis 
+  - ST 503: Fundamentals of Linear Models and Regression
 
 </p>
 </details>
