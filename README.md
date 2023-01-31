@@ -1,6 +1,6 @@
 ## Nicholas Gawron
 
-Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State. I plan on using this page to show how I've applied my statistical background to a vartiety of fun projects. 
+Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State. I'm using this page to show how I've applied my statistical background and easily share projects I am working on. 
 
 ### My Background
 
@@ -10,9 +10,6 @@ Hi! I'm Nick Gawron a Masters Student currently studying statistics at NC State.
 
 
 
-    ```ruby
-      puts "Hello World"
-    ```
 
 </p>
 </details>
